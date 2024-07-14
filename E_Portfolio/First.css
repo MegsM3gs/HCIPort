@@ -1,0 +1,187 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    background-image: url('BG.jpg');
+    background-size: 1750px;
+    
+}
+main{
+    width: 100vw;
+    height: 100vh;
+}
+nav{
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 1%;
+    justify-content: space-between;
+    background-color: #31312f; 
+      
+}
+nav a{
+    
+    transition: .3s;
+}
+nav a:hover{
+    color: aqua;
+}
+.nav-links ul{
+display: flex;
+list-style-type: none;
+}
+.nav-links li a{
+   text-decoration: none;
+   color: white;
+   margin: 0 7px;
+   padding: 1;
+}
+.main-page {
+    padding: 2%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: -3%;
+   
+}
+.row{
+    display: flex;
+}
+.col-1{
+    
+    padding: 1%;
+    font-size: 20px;
+}
+.col-1 h1{
+    font-size: 55px;
+    margin-top: 25px;
+    margin-left: 0%;
+    color: white;
+    
+}
+.col-1 p{
+    margin-left: 1%;
+    color: white;
+}
+.col-2 img{
+    width: 470px;
+    margin-top: 20%;
+    margin-left: 45%;
+    
+}
+footer{
+    display: flex;
+    color: white;
+    align-items: left;
+    justify-content: left;
+}
+.footerline {
+    width: 180px;
+    height: 2px;
+    background-color: white;
+    
+}
+footer h3{
+    color: white;
+    font-size:larger;
+    text-decoration: none;
+    list-style-type: none;
+}
+.Mee img{
+    width: 670px;
+    margin-top: 3%;
+   margin-left: 30%;
+}
+.Activity1{
+    display: flex;
+    margin-left: 18%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.Activity1 img {
+    position: relative;
+    width: 80%;
+   
+}
+
+
+.ACT1 img{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    transform: translateY(100%);
+
+}
+
+.ACT2 img{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.ACT3 img{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.ACT4 img{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.ACT5 img{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.ACT6 img{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.ACT7 img{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.ACT8 img{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+footer h4{
+   
+    color: white;
+    font-size:larger;
+    text-decoration: none;
+    list-style-type: none;
+}
+footer h4{
+    margin-left: 40%;
+    margin-bottom: 5%;
+}
+.footerline h4{
+    margin-left: 40%;
+    margin-bottom: 5%;
+}
+
+
+
